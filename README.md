@@ -1,6 +1,6 @@
 # gerador-de-senha-v1
 
-Estou trabalhando em um projeto de gerador de senha para treinar e aperfeiçoar as minhas habilidade tulizando orientação a objeto 
+Estou trabalhando em um projeto de gerador de senha para treinar e aperfeiçoar as minhas habilidade utilizando orientação a objeto 
 
 
 ![image](https://user-images.githubusercontent.com/67065618/213279683-f7eef0e1-9564-47f2-86d2-3edca7db8ba0.png)
